@@ -52,7 +52,6 @@ function Signup() {
             }
         }
         return false;
-    
     }
 
     return (
